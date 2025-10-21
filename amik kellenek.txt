@@ -1,14 +1,13 @@
-ospf --
-hsrp
-ethechannel--
-vlan--
-asa
-ipv4-6
-port sec
-ssh
-acl
-nat
-wifi--
-win srv--
-lin srv--
-dhcp--
+ospf -- (peter
+hsrp (peter
+etherchannel-- (peter
+vlan-- (peter
+asa (peter
+ipv4-6 (peter
+port sec (peter
+ssh (peter
+acl (peter
+nat (peter
+wifi-- (zoli
+win srv-- (robi
+lin srv-- (robi
