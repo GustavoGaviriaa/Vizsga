@@ -1,0 +1,4 @@
+192.168.103.0/25 (vegeszkozok)
+10.10.10.0/30 (routerek kozt)
+20.20.20.0/30 (routerek kozt)
+
