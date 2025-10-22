@@ -12,3 +12,8 @@ network 192.168.103.96 0.0.0.31 a 0
 router ospf 10
 network 10.10.10.0 0.0.0.3 a 0
 network 10.10.10.8 0.0.0.3 a 0
+network 10.10.10.4 0.0.0.3 a 0
+
+
+router ospf 10
+network 10.10.10.4 0.0.0.3 a 0
