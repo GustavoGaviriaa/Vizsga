@@ -1,19 +1,24 @@
+R1
 router ospf 10
 network 10.10.10.0 0.0.0.3 a 0
 network 192.168.103.31 0.0.0.31 a 0
+network 192.168.103.32 0.0.0.31 a 0
+network 192.168.103.64 0.0.0.31 a 0
+network 192.168.103.96 0.0.0.31 a 0
 
-
+R2
 router ospf 10
 network 10.10.10.8 0.0.0.3 a 0
 network 192.168.103.64 0.0.0.31 a 0
 network 192.168.103.96 0.0.0.31 a 0
+network 192.168.103.32 0.0.0.31 a 0
 
-
+R3
 router ospf 10
 network 10.10.10.0 0.0.0.3 a 0
 network 10.10.10.8 0.0.0.3 a 0
 network 10.10.10.4 0.0.0.3 a 0
 
-
+R4
 router ospf 10
 network 10.10.10.4 0.0.0.3 a 0
