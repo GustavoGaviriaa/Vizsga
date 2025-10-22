@@ -1,0 +1,13 @@
+ R1:
+standby 1 ip 192.168.103.2
+standby 1 priority 100
+standby 1 preempt
+standby 1 name M1AM1
+standby 1 version 2
+
+ R2:
+standby 1 ip 192.168.103.2
+standby 1 priority 100
+standby 1 preempt
+standby 1 name M1AM1
+standby 1 version 2

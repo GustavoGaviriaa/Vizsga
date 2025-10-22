@@ -1,0 +1,7 @@
+SW1
+int r f0/1-2
+access-group 1 mode active
+
+SW2
+int r f0/1-2
+access-group 1 mode active

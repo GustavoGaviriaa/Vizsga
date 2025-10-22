@@ -1,0 +1,20 @@
+hostname router1
+ip domain-name metropd.hu
+crypto key generate rsa
+ip ssh version 2
+username admin password admin
+line vty 0 15
+login local
+transport input ssh
+
+
+
+
+
+
+
+line vty 0 4
+ transport input none
+crypto key zeroize rsa
+no ip ssh version 2
+no ip domain-name
