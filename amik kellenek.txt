@@ -1,7 +1,7 @@
-ospf -- (peter
+ospf -- (peter✔️
 hsrp (peter
-etherchannel-- (peter
-vlan-- (peter
+etherchannel-- (peter✔️
+vlan-- (peter✔️
 asa (peter
 ipv4-6 (peter
 port sec (peter
@@ -11,3 +11,4 @@ nat (peter
 wifi-- (zoli
 win srv-- (robi
 lin srv-- (robi
+
