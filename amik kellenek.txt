@@ -1,5 +1,5 @@
 ospf -- (peter✔️
-hsrp (peter
+hsrp (peter✔️
 etherchannel-- (peter✔️
 vlan-- (peter✔️
 asa (peter
@@ -11,4 +11,5 @@ nat (peter
 wifi-- (zoli
 win srv-- (robi
 lin srv-- (robi
+
 
