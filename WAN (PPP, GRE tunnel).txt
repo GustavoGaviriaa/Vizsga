@@ -1,0 +1,51 @@
+WAN hálózat
+
+Vonalkapcsolt hálózat:
+-ISDN
+-PSTN (betárcsázós net)
+
+Csomagkapcsolt:
+-ATM
+-Frame Relay
+-MPLS
+-Metro Ethernet
+
+Szolgáltatói hálózati megoldás (száloptika)
+- SDH
+- SONET
+- DWDM
+
+
+
+Gyak:
+
+PPP:
+1. hostname beállítása
+
+2. létre kell hozni egy felhasználót
+   pl. Miskolc routeren a szomszéd nevén hozzuk létre
+       Miskolc(config)#username Budapest password cisco
+
+3. be kell állítani ppp-re a begyazást a serial porton
+
+4. pap vagy chap (jobb/újabb mint a pap)
+
+
+interface Serial0/0/0
+ encapsulation ppp
+ ppp authentication chap
+
+
+GRE Tunnel (VPN):
+
+pl. Debrecen
+int tunnel 0
+ip add 80.80.80.2 255.255.255.252 (tunnel IP, ami csak a tunnel-en létezik)
+tunnel source s0/0/1
+tunnel destination 10.10.10.1
+
+pl. Miskolc
+int tunnel 0
+ip add 80.80.80.1 255.255.255.252 (tunnel IP, ami csak a tunnel-en létezik)
+tunnel source s0/0/0
+tunnel destination 10.10.10.6
