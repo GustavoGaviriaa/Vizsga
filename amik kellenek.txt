@@ -11,7 +11,8 @@ nat (peter
 wifi-- (robi
 win srv-- (zoli
 lin srv-- (zoli
-GRE tunnel--
+GRE tunnel-- (peti ️️✔
+
 
 
 
