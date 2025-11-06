@@ -8,8 +8,9 @@ port sec (peter
 ssh (peter
 acl (peter
 nat (peter
-wifi-- (zoli
-win srv-- (robi
-lin srv-- (robi
+wifi-- (robi
+win srv-- (zoli
+lin srv-- (zoli
+GRE tunnel--
 
 
