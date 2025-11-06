@@ -5,12 +5,13 @@ vlan-- (peter✔️
 asa (peter
 ipv4-6 (peter
 port sec (peter
-ssh (peter
+ssh (peter✔️
 acl (peter
 nat (peter
 wifi-- (robi
 win srv-- (zoli
 lin srv-- (zoli
 GRE tunnel--
+
 
 
