@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="hu">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Miami Metro Police Department</title>
+<link rel="stylesheet" href="metro.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="site-header">
+<div class="container nav">
+<h1 class="brand">Miami Metro Police Department</h1>
+<nav>
+<ul>
+<li><a href="#about">Rólunk</a></li>
+<li><a href="#services">Szolgáltatások</a></li>
+<li><a href="#gallery">Galéria</a></li>
+<li><a href="#contact">Kapcsolat</a></li>
+</ul>
+</nav>
+</div>
+</header>
+
+
+<main>
+<section class="hero">
+<div class="container hero-inner">
+<div class="hero-text">
+<h2>Biztonság. Szolgálat. Közösség.</h2>
+<p>A Miami Metro Police Department elkötelezett a város biztonsága és a lakosok nyugalma mellett. Ismerjen meg minket és szolgáltatásainkat.</p>
+<a class="btn" href="#contact">Lépjen kapcsolatba</a>
+</div>
+<div class="hero-image">
+<img src="Gemini_Generated_Image_e0si6ke0si6ke0si.png" alt="Rendőrségi járőr"/>
+</div>
+</div>
+</section>
+
+
+<section id="about" class="container about">
+<h3>Rólunk</h3>
+<p>A Miami Metro Police Department egy modern, közösségorientált rendőrség, amely a prevenciót, a gyors reagálást és az átláthatóságot tartja szem előtt. Célunk, hogy együtt dolgozzunk a lakosokkal egy biztonságosabb városért.</p>
+</section>
+
+
+<section id="services" class="container services">
+<h3>Szolgáltatásaink</h3>
+<div class="grid">
+<article class="card">
+<img src="https://www.amnestyusa.org/wp-content/uploads/2016/08/GettyImages-542426432-1-1.jpg" alt="Járőrözés"/>
+<h4>Járőrözés</h4>
+<p>Folyamatos járőrszolgálat a közterületeken a lakosok védelméért és a bűncselekmények megelőzéséért.</p>
+</article>
+<article class="card">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanqyZGaYQ8i66-HU1qF3cPBtdowhMME4Bzg&s" alt="Közösségi programok"/>
+<h4>Közösségi programok</h4>
+<p>Oktatások és találkozók a helyi közösséggel: bűnmegelőzés, iskolai programok és partnerségek.</p>
+</article>
+<article class="card">
+<img src="https://www.milwaukeeindependent.com/wp-content/uploads/2020/07/070320_PolicePentagon_01.jpg" alt="Vészhelyzet reagálás"/>
+<h4>Vészhelyzet reagálás</h4>
+<p>Gyors reagálás sürgős esetekben, koordináció más mentő- és segélyszolgálatokkal.</p>
+</article>
+<article class="card">
+<img src="https://cdn.britannica.com/49/72749-050-1829F498/recruiting-poster-Army-Uncle-Sam-James-Montgomery-1917.jpg?w=400&h=300&c=crop" alt="légy rendőr"/>
+<h4>Jelentkezz rendőrnek</h4>
+<p>Szolgáld városunkat és részesüls élményekben kiképzésben és légy egy kitartó csapat része.</p>
+</article>
+<article class="card">
+<img src="https://hips.hearstapps.com/hmg-prod/images/pmx030118-nypd2176-1519151272.jpg" alt="szerelő"/>
+<h4>Jelentkezz rendőr jármű szerelőnek</h4>
+<p>Akcióktól mentes állás érdekel jelentkezz a szerelő csapathoz egy igazán családi környezetben lehet részed.</p>
+</article>
+<article class="card">
+<img src="https://content.api.news/v3/images/bin/e99b5e0c57b26e102b7caf0ab58f08a1" alt="informatikus"/>
+<h4>Jelentkezz informatikusnak</h4>
+<p>Te lehetsz egy nagy rendőri csapatnak az informatikai háttér biztosítója.</p>
+</article>
+</div>
+</section>
+
+
+<section id="gallery" class="container gallery">
+<h3>Galéria</h3>
+<div class="gallery-grid">
+<img src="https://media.istockphoto.com/id/899710000/photo/policewoman-and-partner-next-to-squad-car.jpg?s=612x612&w=0&k=20&c=0wY3IbIVcdpJApU4JXUw31UtKl5g9iDmPoY0vC514Io=" alt="Rendőrautó éjszaka">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGFHT0Hq89iS_RUdWEzttyqlB7wksPLdluw&s" alt="Közösségi esemény">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5rU_zquzp1Jn_khW-P3qr04FSK57Oh1gXQ&s" alt="Rendőrségi iroda">
+<img src="https://thenationaldesk.com/resources/media2/16x9/6000/986/0x313/90/f73a0881-6591-4bb9-9bc5-e88c8ccb6f90-GettyImages2241659203.jpg" alt="Polgárok és rendőrök találkozása">
+</div>
