@@ -1,6 +1,6 @@
 :root{
 --bg:#255db6;
---card:#0b1220;
+--card:hsl(220, 49%, 8%);
 --accent:#1e90ff;
 --muted:#9aa4b2;
 --glass: rgba(255,255,255,0.04);
@@ -70,3 +70,32 @@ nav ul{display:none}
 
 /* Utility */
 .hint{color:var(--muted);font-size:0.9rem}
+.kapcsolat {
+  background-color: #010624;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+  font-size: 14px;
+}
+
+.kapcsolat a {
+  color: #b1c6dd;
+  text-decoration: none;
+}
+
+.kapcsolat a:hover {
+  text-decoration: underline;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
