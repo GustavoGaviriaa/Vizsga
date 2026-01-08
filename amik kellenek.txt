@@ -8,10 +8,17 @@ port sec (peter
 ssh (peter✔️
 acl (peter
 nat (peter
-wifi-- (robi
+wifi-- (robi✔️
 win srv-- (zoli
-lin srv-- (zoli
+-DHCP
+-ADDS
+-DNS
+-WEB SRV
+-FTP
+lin srv--(zoli
+-DataBase
 GRE tunnel-- (peti ️️✔
+PPP--(Peter✔️
 
 
 
