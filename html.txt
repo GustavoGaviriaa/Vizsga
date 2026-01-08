@@ -2,7 +2,7 @@
 <html lang="hu">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
 <title>Miami Metro Police Department</title>
 <link rel="stylesheet" href="metro.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -91,3 +91,11 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp5rU_zquzp1Jn_khW-P3qr04FSK57Oh1gXQ&s" alt="Rendőrségi iroda">
 <img src="https://thenationaldesk.com/resources/media2/16x9/6000/986/0x313/90/f73a0881-6591-4bb9-9bc5-e88c8ccb6f90-GettyImages2241659203.jpg" alt="Polgárok és rendőrök találkozása">
 </div>
+
+<footer class="kapcsolat">
+  <p>
+    📞 Telefon: <a href="tel:+3612345678">+36 12 345 678</a> |
+    ✉️ Email: <a href="mailto:info@miamimetropd.hu">info@miamimetropd.hu</a>
+  </p>
+</footer>
+</body>
