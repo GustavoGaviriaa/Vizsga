@@ -28,7 +28,7 @@ nav a:hover{color:var(--accent);background:var(--glass)}
 .btn{display:inline-block;padding:0.7rem 1.1rem;border-radius:12px;background:var(--accent);color:#fff;text-decoration:none;font-weight:600}
 
 
-.hero-image img{width:100%;height:320px;object-fit:cover;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.6)}
+.hero-image img{width:100%;height:550px;object-fit:cover;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.6)}
 
 
 .about, .services, .gallery, .contact{margin:3rem 0}
