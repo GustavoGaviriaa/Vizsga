@@ -1,0 +1,1 @@
+ip nat inside source static 192.168.200.10 206.100.20.103
